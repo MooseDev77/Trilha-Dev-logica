@@ -4,14 +4,12 @@
 import os
 os.system ("clear")
 
-nome = input("Informe o seu nome completo: ")
+nome = str (input("Informe o seu nome completo: "))
 idade = int(input("Informe sua idade: "))
 
 
-if idade > 65:
-    print(f"Não é obrigado a votar!")
-if idade < 18:
-    print(f"Não é obrigado a votar!")
+if idade > 65 or idade < 18:
+    print("não é obrigado a votar!")
 else:
-    print(f"É obrigado a votar!")
-    
+    print("é obrigado a votar!")        
+
