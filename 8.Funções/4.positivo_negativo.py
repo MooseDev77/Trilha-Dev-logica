@@ -1,10 +1,10 @@
 import os
-os.system("cls")
+os.system("clear")
 
 def inteiro(numero):
     if numero < 0:
         print("Numero negativo.")
-    if numero  >= 0:
+    if numero  == 0:
         print("Numero neutro.")
     else: 
         print("Numero positivo.")
