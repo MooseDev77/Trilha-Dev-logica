@@ -1,0 +1,19 @@
+Nome do funcionario: leandro
+Data de admissão: 2024
+Matrícula: 24434
+Endereço: rua ademiro dias
+
+Nome do funcionario: leandro
+Data de admissão:2024
+Matrícula:24434
+Endereço:rua ademiro dias
+                                Nome do funcionario:leandro,
+                                Data de admissão:2024.0,
+                                Matrícula:54545.0,
+                                Endereço:rua ademiro dias
+
+
+Nome do funcionario:leandro,
+Data de admissão:2024.0,
+Matrícula:243243.0,
+Endereço:rua ademiro dias

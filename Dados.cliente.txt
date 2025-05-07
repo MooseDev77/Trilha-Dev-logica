@@ -1,0 +1,15 @@
+Nome do cliente: gustave
+Data de nascimento: 1998
+Endereço: garibaldi
+
+Nome do cliente:gustave
+Data de nascimento: 1998
+Endereço:garibaldi
+                            Nome do cliente:gustave,
+                            Data de nascimento:1998.0,
+                            Endereço:garibaldi
+
+
+Nome do cliente:gustave,
+Ano de nascimento:1998.0,
+Endereço:garibaldi
