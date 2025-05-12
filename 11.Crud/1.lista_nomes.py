@@ -84,6 +84,7 @@ while True:
             print("\nSaindo do programa.")
             break
         case _:
-            print("\nOpção inválida.\nTente novamente.")
+          print("\nOpção inválida.\nTente novamente.")
     time.sleep(5)
-    os.system("cls || clear")
+    os.system("clear")
+
